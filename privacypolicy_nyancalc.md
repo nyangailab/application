@@ -9,4 +9,4 @@
 
 制定日: 2025-06-01    
 開発者: NyanAiLab    
-連絡先: nyanailab@example.com  
+連絡先: nyangai.lab@gmail.com 
